@@ -1,0 +1,10 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "mrfast.sbf.mixins.transformers",
+  "refmap": "mixins.skyblockfeatures.refmap.json",
+  "plugin": "mrfast.sbf.mixins.init.MixinPlugin",
+  "verbose": true,
+  "injectors": {
+    "maxShiftBy": 2
+  }
+}
